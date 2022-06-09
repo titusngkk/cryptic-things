@@ -1,2 +1,1 @@
-# cryptic-things
-Doing cryptic things
+# Trying my hand out at diong cryptic things
