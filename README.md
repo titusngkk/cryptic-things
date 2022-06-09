@@ -1,1 +1,1 @@
-# Trying my hand out at diong cryptic things
+# Trying my hand out at doing cryptic things
